@@ -1,0 +1,80 @@
+[{
+    "_id": {
+      "$oid": "638b32ffadb8f6e1be0baadc"
+    },
+    "username": "ahmed",
+    "roles": {
+      "User": 2001
+    },
+    "password": "$2b$10$Xp9/IKq2Gh23v3KPsO5OQuka53h8JtPkbhY7apDU9NDhFVBekPwJi",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFobWVkIiwiaWF0IjoxNjcwMDc5ODM5LCJleHAiOjE2NzAxNjYyMzl9.WhM2wBp0Wknwey2wONdB1onKRxVGcRMuL2jwi3fsows"
+  },{
+    "_id": {
+      "$oid": "638b3c1313a8331be776a22f"
+    },
+    "username": "ahmeed",
+    "roles": {
+      "Admin": 5150,
+      "User": 2001
+    },
+    "password": "$2b$10$rmNYhl4KjsZdwULns849z.qqIib7fvhj7BjSxT0klfMrTE2itzRly",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFobWVlZCIsImlhdCI6MTY3MDA3OTMxMSwiZXhwIjoxNjcwMTY1NzExfQ.imreLlPshWbTLs9lOA1L73W1EiDNS_RpnbrzKVX9lF8"
+  },{
+    "_id": {
+      "$oid": "638c2d67de9be419ddbd5a4a"
+    },
+    "username": "madou",
+    "email": "ahmed.guebsi6597@gmail.com",
+    "contact": 23454595,
+    "x_coordinate": "47",
+    "y_coordinate": "122",
+    "roles": {
+      "User": 2001
+    },
+    "payment_status": {
+      "Unpaied": "Unpaid",
+      "paied": "Unpaid"
+    },
+    "password": "$2b$10$lOfw7LCBQZPxGkKddCUnLe.5xKea6euZXD58SZ4ZseVDv4V6.JnGq",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1hZG91IiwiaWF0IjoxNjcwNTE0MTg2LCJleHAiOjE2NzA2MDA1ODZ9.cnegC9QArdbhM9H3SCAFB-42BnjbXOErg5zNK3BEP9A"
+  },{
+    "_id": {
+      "$oid": "638ef75243b819a945f840e5"
+    },
+    "username": "maadou",
+    "email": "ahmed.guebsi6597@gmail.com",
+    "contact": 5654139,
+    "x_coordinate": "8",
+    "y_coordinate": "12",
+    "roles": {
+      "User": 2001
+    },
+    "payment_status": {
+      "paied": "Unpaid"
+    },
+    "password": "$2b$10$62Y7xyOgkpblo3keic7l.uufUXrxBLMghhRjPOKvO4elTipEIo0Xm",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1hYWRvdSIsImlhdCI6MTY3MDMxNjI5NiwiZXhwIjoxNjcwNDAyNjk2fQ.92LeipuNfVX8uEd79rhzvPWmOw3tP-K3caxVqf1bsl8"
+  },{
+    "_id": {
+      "$oid": "638f14009362fd2e8e01d26d"
+    },
+    "username": "yass",
+    "email": "yass@gmail.com",
+    "contact": 22222222,
+    "x_coordinate": "12",
+    "y_coordinate": "16",
+    "roles": {
+      "User": 2001,
+      "Admin": 5150
+    },
+    "payment_status": {
+      "paied": "Unpaid"
+    },
+    "password": "$2b$10$NEbvcC3NrfuMJkq5gwXIEe9CB6dC3ylDg51VF4F4u/Ymq6HZZAbQ6",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Inlhc3MiLCJpYXQiOjE2NzA1MTU4MTMsImV4cCI6MTY3MDYwMjIxM30.5FKtqB8nUEKfqigztrVvhFUvWDNKAzZTL2d6z1r9mMM"
+  }]
